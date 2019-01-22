@@ -49,7 +49,7 @@ h2 {
 
 .site-content {
     flex: 1;
-    max-width: 500px;
+    max-width: 50%;
     margin: auto;
     min-height: calc(100vh - 70px);
     padding-top: 20px;
@@ -149,3 +149,4 @@ h2 {
     width: 100%;
     height: auto;
 }
+
